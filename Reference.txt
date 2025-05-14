@@ -1,0 +1,5 @@
+Reference List
+
+OpenAI (2025). Cybersecurity Awareness Chatbot - C# Code. GitHub repository. Available at: https://github.com/openai/chatbot [Accessed 4 April 2025].
+
+ChatGPT. (2025). C# Cybersecurity Awareness Chatbot Code. Available at: https://chat.openai.com [Accessed 4 April 2025].
